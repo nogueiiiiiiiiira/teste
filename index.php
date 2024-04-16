@@ -8,11 +8,16 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 </head>
 <body>
+    <div>
+        
+    </div>
     <div class="container my-5">
         <h2>List of Clients</h2>
-        <a class="btn btn-primary" href="/myshop/create.php" role="button">New Client</a>
         <br>
+        <a class="btn btn-primary" href="/myshop/create.php" role="button">+ New Client</a>
         <table class="table">
+            <br>
+            <br>
             <thead>
                 <tr>
                     <th>ID</th>
